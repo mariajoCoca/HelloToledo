@@ -10,6 +10,7 @@ package dao;
  * @author Alumno
  */
 public class ManejadorBd {
-    public ManjedorBd(){
+   private String nombre;
+    public ManejadorBd(){
     }
 }
